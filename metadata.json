@@ -1,0 +1,6 @@
+{
+  "name": "Gunnu's Birthday Beach",
+  "description": "A beautiful, interactive beach-themed birthday card and experience for Gunnu from Nanu bhaya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
